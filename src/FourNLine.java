@@ -3,6 +3,8 @@
  */
 public class FourNLine {
 
+    //este es un comentario para probar
+
     public static String board[][] = {
             {"-","-","-","-","-","-"}, //COLUNMA 1
             {"-","-","-","-","-","-"}, //COLUNMA 2
